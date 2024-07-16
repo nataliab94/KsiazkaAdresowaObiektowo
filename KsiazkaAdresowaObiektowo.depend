@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1721132028 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\ksiazkaadresowa.cpp
+	"KsiazkaAdresowa.h"
+
+1716549077 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\uzytkownicy.cpp
+	"Uzytkownicy.h"
+
+1717763577 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\uzytkownicy.h
+	<iostream>
+
+1721135998 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\main.cpp
+	<iostream>
+	"ksiazkaAdresowa.h"
+
+1721135998 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\ksiazkaadresowa.h
+	<iostream>
+	"UzytkownikMenadzer.h"
+	"AdresatMenadzer.h"
+
+1720477008 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1720477008 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<fstream>
+
+1720434421 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\uzytkownikmenadzer.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<conio.h>
+	"PlikZUzytkownikami.h"
+	"Uzytkownicy.h"
+	"MetodyPomocnicze.h"
+
+1720467538 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\plikzuzytkownikami.cpp
+	"PlikZUzytkownikami.h"
+
+1720467094 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\plikzuzytkownikami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Uzytkownicy.h"
+	"MetodyPomocnicze.h"
+	"PlikTekstowy.h"
+
+1718796583 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\uzytkownikmenadzer.cpp
+	"UzytkownikMenadzer.h"
+	"Uzytkownicy.h"
+
+1720089947 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\adresatmenadzer.cpp
+	"AdresatMenadzer.h"
+	"KsiazkaAdresowa.h"
+
+1721136029 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\adresatmenadzer.h
+	<iostream>
+	<vector>
+	<sstream>
+	<windows.h>
+	"Adresat.h"
+	"PlikZAdresatami.h"
+
+1721135998 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\plikzadresatami.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"MetodyPomocnicze.h"
+	"Adresat.h"
+	"PlikTekstowy.h"
+
+1718784956 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\adresat.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cctype>
+	<algorithm>
+	"MetodyPomocnicze.h"
+	"UzytkownikMenadzer.h"
+
+1718784986 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\adresat.cpp
+	"Adresat.h"
+
+1721135998 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\plikzadresatami.cpp
+	"PlikZAdresatami.h"
+
+1721126582 c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\pliktekstowy.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+
+1721126582 source:c:\users\doria\desktop\kody\ksiazkaadresowaobiektowo\pliktekstowy.cpp
+	"PlikTekstowy.h"
+
